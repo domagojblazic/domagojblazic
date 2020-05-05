@@ -1,0 +1,49 @@
+ul li a,
+ul li a:visited {
+    display: block;
+    text-decoration: none;
+    padding: 2px 0px 2px 5px;
+    width: 100px;
+    color: blue;
+    font-weight: bold;
+    font-weight: 6;
+    border-left-style: solid;
+
+}
+
+ul ul li a,
+ul ul li a:visited {
+    display: block;
+    text-decoration: none;
+    margin: 1px 1px 1px 15px;
+    padding: 2px 0px 2px 5px;
+    width: 108px;
+    color: blue;
+    font-weight: bold;
+    font-weight: 4;
+    border-left-style: solid;
+}
+
+ul,
+li {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li a:hover {
+
+    text-decoration: none;
+    background-color: lightgrey;
+    border-left-style: solid;
+    border-left-color: coral;
+}
+
+
+ul ul li a:hover {
+
+    text-decoration: none;
+    /* background-color: brown; */
+
+    border-left-color: greenyellow;
+}

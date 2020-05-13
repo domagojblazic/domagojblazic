@@ -1,0 +1,225 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: black;
+
+}
+
+#wrapper {
+    opacity: 0.15;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    max-width: 90%;
+}
+
+.header {
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    overflow: auto;
+    background-color: #333;
+
+}
+
+.header li {
+    float: left;
+    display: inline-block;
+    width: 20%;
+}
+
+.header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.header li a:hover {
+    background-color: #976707;
+}
+
+.active {
+    background-color: orange;
+}
+
+/*tekst*/
+
+.mail{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 200px;
+    right: 400px;
+}
+
+.mailek{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 250px;
+    right: 635px;
+}
+
+.naslov{
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.obrazacjedan{
+    color: goldenrod;
+    font-size: 50px;
+    
+}
+
+.obrazacdva{
+    color: goldenrod;
+    font-size: 50px;
+    
+    position: absolute;
+    top: 200px;
+}
+
+.obrazactri{
+    color: goldenrod;
+    font-size: 50px;
+    
+    position: absolute;
+    top: 270px;
+}
+
+.obrazaccetri{
+    color: goldenrod;
+    font-size: 50px;
+    
+    position: absolute;
+    top: 340px;
+}
+
+.obrazacpet{
+    color: goldenrod;
+    font-size: 50px;
+    
+    position: absolute;
+    top: 410px;
+}
+
+.obrazacsest{
+    color: goldenrod;
+    font-size: 50px;
+    
+    position: absolute;
+    top: 500px;
+}
+
+.posalji{
+    color: goldenrod;
+    font-size: 50px;
+    background-color: goldenrod;
+    
+    position: absolute;
+    top: 650px
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: black;
+
+}
+
+#wrapper {
+    opacity: 0.15;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    max-width: 90%;
+}
+
+.header {
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    overflow: auto;
+    background-color: #333;
+
+}
+
+.header li {
+    float: left;
+    display: inline-block;
+    width: 20%;
+}
+
+.header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+.header li a:hover {
+    background-color: #976707;
+}
+
+.posalji{
+
+    background-color: black;
+    color: goldenrod;
+    position: absolute;
+    top: 680px;
+    right: 1400px;
+}
+
+.validator{
+    height: 100px;
+    position: absolute;
+    top: 850px;
+    right: 0px;
+}
+
+.link{
+    position: absolute;
+    top: 800px;
+    right: 50px;
+    font-size: 25px;
+}
+
+.validatorcss{
+    height: 100px;
+    position: absolute;
+    top: 850px;
+    right: 0px;
+}
+
+.validatorcss{
+    height: 100px;
+    position: absolute;
+    top: 870px;
+    right: 200px;
+}
+
+.linkcss{
+    position: absolute;
+    top: 800px;
+    right: 250px;
+    font-size: 25px;
+}
+}
+
+
+
+
+
+

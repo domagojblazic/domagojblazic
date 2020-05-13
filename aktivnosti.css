@@ -1,0 +1,186 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: black;
+
+}
+
+#wrapper {
+    opacity: 0.15;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    max-width: 90%;
+}
+
+.header {
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    overflow: auto;
+    background-color: #333;
+
+}
+
+.header li {
+    float: left;
+    display: inline-block;
+    width: 20%;
+}
+
+.header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.header li a:hover {
+    background-color: #976707;
+}
+
+.active {
+    background-color: orange;
+}
+
+/*sadržaj stranica */
+
+.koncerti{
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nastup{
+    color: goldenrod;
+    font-size: 2rem;
+    
+}
+
+.tabla{
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 50px;
+    border-radius: 1px;
+    background-color: goldenrod;
+    text-align: center;
+    
+}
+
+.tabladva{
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 30px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.tablatri{
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 30px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.tablacetri{
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 30px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.tablapet{
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 30px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.tablasesta{
+    border-style: solid;
+    border-color: white;
+    color: white;
+    font-size: 30px;
+    border-radius: 1px;
+    text-align: center;
+}
+
+.slikajen{
+    position: absolute;
+    right: 330px;
+    top:250px;
+    height: 300px;
+}
+
+.vfg{
+    position: absolute;
+    right:800px;
+    top: 300px;
+    color: white;
+    font-size: 30px;
+}
+
+.osaka{
+    position: absolute;
+    right:770px;
+    top: 600px;
+    color: white;
+    font-size: 30px;
+}
+
+.osakadva{
+    position: absolute;
+    right: 295px;
+    top:600px;
+    height: 300px;
+}
+
+.dvorane{
+    position: absolute;
+    right:670px;
+    top: 150px;
+    color: goldenrod;
+    font-size: 2rem;
+}
+
+.validator{
+    height: 100px;
+    position: absolute;
+    top: 950px;
+    right: 0px;
+}
+
+.link{
+    position: absolute;
+    top: 900px;
+    right: 50px;
+    font-size: 25px;
+}
+
+.validatorcss{
+    height: 100px;
+    position: absolute;
+    top: 960px;
+    right: 200px;
+}
+
+.linkcss{
+    position: absolute;
+    top: 900px;
+    right: 250px;
+    font-size: 25px;
+}
